@@ -1,0 +1,7 @@
+1. Change development config to production (eas.json from cache)
+2. Build with eas build -p android --profile preview
+    - require nvm 17
+    - npm install -g eas-cli (if not found)
+3. Build on https://expo.dev/
+4. Download .apk and install with Bluestack
+5. Shit gets real
